@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moviezila---search-your-fav.-movie/static/css/main.892b7574.css",
+    "main.js": "/Moviezila---search-your-fav.-movie/static/js/main.a05a94d3.js",
+    "index.html": "/Moviezila---search-your-fav.-movie/index.html",
+    "main.892b7574.css.map": "/Moviezila---search-your-fav.-movie/static/css/main.892b7574.css.map",
+    "main.a05a94d3.js.map": "/Moviezila---search-your-fav.-movie/static/js/main.a05a94d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892b7574.css",
+    "static/js/main.a05a94d3.js"
+  ]
+}
